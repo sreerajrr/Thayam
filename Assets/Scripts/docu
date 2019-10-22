@@ -1,0 +1,6 @@
+/* NoOfPawns[x] -> x= which player entered , i[x] = how may of each player entered
+x=0 -> blue player (player 1);
+x=1 -> purple player (player 2);
+x=2 -> red player (player 3);
+x=3 -> green player (player 4);
+*/
